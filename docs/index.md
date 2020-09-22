@@ -189,9 +189,10 @@ This course concerns the latest techniques in deep learning and representation l
     <tr>
       <td rowspan="3" align="center"><a href="en/week09/09">⑨</a></td>
       <td rowspan="2">Lecture</td>
-      <td><a href="en/week09/09-1"></a>-</td>
+      <td><a href="en/week09/09-1">Sparsity</a></td>
       <td rowspan="2">
         <a href="https://drive.google.com/open?id=1wJRzhjSqlrSqEpX4Omagb_gdIkQ5f-6K">🖥️</a>
+        <a href="https://youtu.be/Pgct8PKV7iw">🎥</a>
       </td>
     </tr>
     <tr><td><a href="en/week09/09-2">Word model, GANs</a></td></tr>
@@ -201,24 +202,89 @@ This course concerns the latest techniques in deep learning and representation l
       <td>
         <a href="https://github.com/Atcold/pytorch-Deep-Learning/blob/master/slides/05%20-%20Generative%20models.pdf">🖥️</a>
         <a href="https://github.com/pytorch/examples/tree/master/dcgan">📓</a>
+        <a href="https://youtu.be/xYc11zyZ26M">🎥</a>
       </td>
     </tr>
 <!-- =============================== WEEK 10 =============================== -->
     <tr>
       <td rowspan="3" align="center"><a href="en/week10/10">⑩</a></td>
       <td rowspan="2">Lecture</td>
-      <td><a href="en/week10/10-1"></a>-</td>
+      <td><a href="en/week10/10-1">CV SSL I</a></td>
       <td rowspan="2">
         <a href="https://drive.google.com/open?id=16lsnDN2HIBTcRucbVKY5B_U16c0tNQhR">🖥️</a>
+        <a href="https://youtu.be/0KeR6i1_56g">🎥</a>
       </td>
     </tr>
-    <tr><td><a href="en/week10/10-2"></a>-</td></tr>
+    <tr><td><a href="en/week10/10-2">CV SSL II</a></td></tr>
     <tr>
       <td rowspan="1">Practicum</td>
-      <td><a href="en/week10/10-3"></a>-</td>
+      <td><a href="en/week10/10-3">Predictive Control</a></td>
       <td>
         <a href="https://github.com/Atcold/pytorch-Deep-Learning/blob/master/slides/09%20-%20Controller%20learning.pdf">🖥️</a>
         <a href="https://github.com/Atcold/pytorch-Deep-Learning/blob/master/14-truck_backer-upper.ipynb">📓</a>
+        <a href="https://youtu.be/A3klBqEWR-I">🎥</a>
+      </td>
+    </tr>
+<!-- =============================== WEEK 11 =============================== -->
+    <tr>
+      <td rowspan="3" align="center"><a href="en/week11/11">⑪</a></td>
+      <td rowspan="2">Lecture</td>
+      <td><a href="en/week11/11-1">Activations</a></td>
+      <td rowspan="2">
+        <a href="https://drive.google.com/file/d/1AzFVLG7D4NK6ugh60f0cJQGYF5OL2sUB">🖥️</a>
+        <a href="https://drive.google.com/file/d/1rkiZy0vjZqE2w7baVWvxwfAGae0Eh1Wm">🖥️</a>
+        <a href="https://drive.google.com/file/d/1tryOlVAFmazLLZusD2-UfReFMkPk5hPk">🖥️</a>
+        <a href="https://youtu.be/bj1fh3BvqSU">🎥</a>
+      </td>
+    </tr>
+    <tr><td><a href="en/week11/11-2">Losses</a></td></tr>
+    <tr>
+      <td rowspan="1">Practicum</td>
+      <td><a href="en/week11/11-3">PPUU</a></td>
+      <td>
+        <a href="http://bit.ly/PPUU-slides">🖥️</a>
+        <a href="http://bit.ly/PPUU-code">📓</a>
+        <a href="https://youtu.be/VcrCr-KNBHc">🎥</a>
+      </td>
+    </tr>
+<!-- =============================== WEEK 12 =============================== -->
+    <tr>
+      <td rowspan="3" align="center"><a href="en/week12/12">⑫</a></td>
+      <td rowspan="2">Lecture</td>
+      <td><a href="en/week12/12-1">DL for NLP I</a></td>
+      <td rowspan="2">
+        <a href="https://drive.google.com/file/d/149m3wRavTp4DQZ6RJTej8KP8gv4jnkPW/">🖥️</a>
+        <a href="https://youtu.be/6D4EWKJgNn0">🎥</a>
+      </td>
+    </tr>
+    <tr><td><a href="en/week12/12-2">DL for NLP II</a></td></tr>
+    <tr>
+      <td rowspan="1">Practicum</td>
+      <td><a href="en/week12/12-3">Attention & transformer</a></td>
+      <td>
+        <a href="https://github.com/Atcold/pytorch-Deep-Learning/blob/master/slides/10%20-%20Attention%20%26%20transformer.pdf">🖥️</a>
+        <a href="https://github.com/Atcold/pytorch-Deep-Learning/blob/master/15-transformer.ipynb">📓</a>
+        <a href="https://youtu.be/f01J0Dri-6k">🎥</a>
+      </td>
+    </tr>
+<!-- =============================== WEEK 13 =============================== -->
+    <tr>
+      <td rowspan="3" align="center"><a href="en/week13/13">⑬</a></td>
+      <td rowspan="2">Lecture</td>
+      <td><a href="en/week13/13-1">GCNs I</a></td>
+      <td rowspan="2">
+        <a href="https://drive.google.com/file/d/1oq-nZE2bEiQjqBlmk5_N_rFC8LQY0jQr/">🖥️</a>
+        <a href="https://youtu.be/Iiv9R6BjxHM">🎥</a>
+      </td>
+    </tr>
+    <tr><td><a href="en/week13/13-2">GCNs II</a></td></tr>
+    <tr>
+      <td rowspan="1">Practicum</td>
+      <td><a href="en/week13/13-3">GCNs III</a></td>
+      <td>
+        <a href="https://github.com/Atcold/pytorch-Deep-Learning/blob/master/slides/11%20-%20GCN.pdf">🖥️</a>
+        <a href="https://github.com/Atcold/pytorch-Deep-Learning/blob/master/16-gated_GCN.ipynb">📓</a>
+        <a href="https://youtu.be/2aKXWqkbpWg">🎥</a>
       </td>
     </tr>
   </tbody>
